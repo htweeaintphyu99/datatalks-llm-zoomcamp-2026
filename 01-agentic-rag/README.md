@@ -1,4 +1,8 @@
-# LLM Zoomcamp 2026 Code
+# LLM Zoomcamp 2026 - Module 1 Homework Solution
+
+This contains my solution for the DataTalksClub LLM Zoomcamp 2026
+Module 1 homework:
+[Agentic RAG homework](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2026/01-agentic-rag/homework.md).
 
 This project is a small retrieval-augmented generation (RAG) and tool-calling
 agent demo for the DataTalksClub LLM Zoomcamp materials.
