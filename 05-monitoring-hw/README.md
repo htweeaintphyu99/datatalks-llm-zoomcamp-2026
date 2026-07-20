@@ -34,8 +34,8 @@ This project uses **uv** for dependency management.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/htweeaintphyu99/datatalks-llm-zoomcamp-2026.git
+cd 05-monitoring-hw
 ```
 
 ### 2. Install dependencies
